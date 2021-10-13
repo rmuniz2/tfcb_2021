@@ -8,7 +8,7 @@ This homework will assess your ability to use GitHub, organize projects, and app
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb](https://github.com/trvrb/).
 
-_Include the link to your GitHub profile here._
+[Rmuniz2](https://github.com/rmuniz2/) Git.   
 
 ## Problem 2
 
@@ -44,7 +44,7 @@ The first time you try doing this, you will get an error asking you to configure
 Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+[HW1](https://github.com/rmuniz2/tfcb_2021/tree/main/homeworks/homework01/tfcb-homework01) git.
 
 ## Problem 4
 
@@ -54,7 +54,7 @@ This question assesses your ability to organize files and directories associated
 
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+[HW1](https://github.com/rmuniz2/tfcb_2021/tree/main/homeworks/homework01/tfcb-homework01) git.
 
 ## Problem 5
 
@@ -66,7 +66,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+[README.md](https://github.com/rmuniz2/tfcb_2021/blob/main/homeworks/homework01/tfcb-homework01/README.md)
 
 ## Problem 6
 
@@ -80,4 +80,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-_Include the link to your `.tsv` file on GitHub here._
+[survey_data.tsv](https://github.com/rmuniz2/tfcb_2021/blob/main/homeworks/homework01/tfcb-homework01/data/survey_data.tsv)
