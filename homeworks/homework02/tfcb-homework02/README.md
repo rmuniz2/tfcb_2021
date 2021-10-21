@@ -60,6 +60,8 @@ _Write a script that will take all of the JPGs in the current directory, convert
 
 
 
+'''
 #!/bin/bash
 ls *.jpg | parallel convert {} {.}.png
 montage *.png montage.png
+'''
