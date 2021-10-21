@@ -13,6 +13,7 @@ Complete the interactive tutorial.
 
 _Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
 
+everything was great !!
 
 ## Problem 1
 
@@ -23,6 +24,7 @@ Note that in reading this article, you don't need to come up with a script that 
 
 _Write a command here that redirects stdout from `script2.sh` to a file named `stdout.txt` and redirects stderr to a file named `stderr.txt`._
 
+./scripts2.sh 1> stdout.txt 2> stderr.txt
 
 ## Problem 2
 
@@ -55,3 +57,9 @@ Big hint: There is a very similar sort of command in the "Compute intensive jobs
 Next:
 
 _Write a script that will take all of the JPGs in the current directory, convert them to PNGs, and then assemble all of the PNGs in the current directory into a file called `montage.png` using the `montage` command. Paste that script here._
+
+
+
+#!/bin/bash
+ls *.jpg | parallel convert {} {.}.png
+montage *.png montage.png
